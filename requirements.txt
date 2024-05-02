@@ -1,0 +1,14 @@
+soundfile
+pydub
+numpy
+pandas
+librosa
+scikit-learn
+catboost
+xgboost
+tk-tools
+customtkinter
+sounddevice
+scipy
+xgboost
+catboost
